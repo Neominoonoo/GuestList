@@ -1,0 +1,53 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#sorted
+{
+	border: 5px solid rgb(0, 47, 255);
+    padding: 10px;
+	background-color: rgb(47, 224, 255);
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name
+{
+	border: 5px solid rgb(0, 47, 255);
+    padding: 10px;
+    background-color: rgb(47, 224, 255);
+	border-radius: 10px;
+    width: 50%;
+}
+body{
+	background-color: blueviolet;
+}
+#p1{
+	border: 5px solid rgb(0, 47, 255);
+    padding: 10px;
+    background-color: rgb(47, 224, 255);
+	border-radius: 10px;
+    width: 50%;
+}
+#p2{
+	border: 5px solid rgb(0, 47, 255);
+    padding: 10px;
+    background-color: rgb(47, 224, 255);
+	border-radius: 10px;
+    width: 50%;
+}
+h3{
+	color: white;
+}
